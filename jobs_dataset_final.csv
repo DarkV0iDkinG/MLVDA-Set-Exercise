@@ -1,0 +1,241 @@
+company,positionName,rating,location,state,salary,salary_num,job_type,is_senior,is_remote,is_CA_NY
+Google,"Senior Data Scientist, Research, YouTube Search",4.3,"San Bruno, CA",CA,"$166,000 - $244,000 a year",205000.0,Full-time,1,0,1
+Meta,"Audio Software Engineer, Applied Scientist",4.2,"Redmond, WA",WA,$70.67 an hour,146993.6,Full-time,0,0,0
+Google,"Staff Data Scientist, Research, Search Platforms",4.3,"Cambridge, MA",MA,"$197,000 - $291,000 a year",244000.0,Full-time,0,0,0
+"Iambic Therapeutics, Inc",Machine Learning Scientist II/Sr (Biomedical Images),0.0,"San Diego, CA",CA,"$152,000 - $215,000 a year",183500.0,Full-time,0,0,1
+AtkinsRéalis,Senior Data Scientist,3.9,"New York, NY",NY,"$74,000 - $135,000 a year",104500.0,Full-time,1,0,1
+EliseAI,AI Operations Specialist - Healthcare,0.0,"New York, NY",NY,"$60,000 - $75,000 a year",67500.0,Full-time,0,0,1
+S&P Global,Machine Learning Engineer,3.9,"New York, NY",NY,"$150,000 - $190,000 a year",170000.0,Unknown,0,0,1
+Handshake,"AI Researcher, Handshake AI",3.7,"New York, NY",NY,"$180,000 - $300,000 a year",240000.0,Full-time,0,0,1
+Handshake,"Prompt Engineer, Handshake AI",3.7,"San Francisco, CA",CA,"$120,000 - $165,000 a year",142500.0,Full-time,0,0,1
+Waymo,"Senior Software Engineer, Machine Learning, Infra & Eval",3.1,"Mountain View, CA",CA,"$204,000 - $259,000 a year",231500.0,Full-time,1,0,1
+Google,"Lead Data Scientist, Research, Multimodal Search",4.3,"Mountain View, CA",CA,"$197,000 - $291,000 a year",244000.0,Full-time,1,0,1
+Amazon.com Services LLC,"Sr Software Dev Engineer, AI, Storm Design System",3.5,"Seattle, WA",WA,"$151,300 - $261,500 a year",206400.0,Full-time,0,0,0
+Handshake,"Research Engineer, Handshake AI",3.7,"New York, NY",NY,"$180,000 - $300,000 a year",240000.0,Full-time,0,0,1
+Barclays,Data Scientist,3.9,"Henderson, NV",NV,"$152,500 - $167,750 a year",160125.0,Unknown,0,0,0
+Handshake,"Prompt Engineer, Handshake AI",3.7,"New York, NY",NY,"$120,000 - $165,000 a year",142500.0,Full-time,0,0,1
+"Iambic Therapeutics, Inc",Machine Learning Scientist II/Sr (Omics),0.0,"San Diego, CA",CA,"$152,000 - $215,000 a year",183500.0,Full-time,0,0,1
+Google,"Software Engineering Manager II, AI/ML, Google Workspace",4.3,"Sunnyvale, CA",CA,"$197,000 - $291,000 a year",244000.0,Full-time,1,0,1
+Citigroup,GenAI Technology Lead - (Hybrid),3.9,"Irving, TX",TX,"$156,160 - $234,240 a year",195200.0,Full-time,1,0,0
+Deloitte,Azure AI Security Senior Consultant,3.9,"New York, NY",NY,"$118,700 - $218,600 a year",168650.0,Full-time,1,0,1
+Amazon,"Senior Delivery Consultant- GenAI/ML, AWS, Industries",3.5,"Arlington, VA",VA,"$138,200 - $239,000 a year",188600.0,Unknown,1,0,0
+UCSF Health,Sr. Data Analyst,4.0,"San Francisco, CA",CA,"$143,900 - $215,800 a year",179850.0,Full-time,0,0,1
+Aledade,Staff AI Researcher,3.1,"Bethesda, MD",MD,"$215,000 - $230,000 a year",222500.0,Unknown,0,0,0
+AT&T,Principal Data Scientist,3.7,"Atlanta, GA",GA,"$160,900 - $270,400 a year",215650.0,Full-time,0,0,0
+Meta,Machine Learning Software Engineering Manager,4.0,"New York, NY",NY,"$213,000 - $293,000 a year",253000.0,Unknown,1,0,1
+Amazon,"Sr. Data Scientist, ART19",3.5,"San Francisco, CA",CA,"$143,300 - $247,600 a year",195450.0,Unknown,0,0,1
+Amazon.com Services LLC,"Sr. Data Scientist, ART19",3.5,"San Francisco, CA",CA,"$143,300 - $247,600 a year",195450.0,Full-time,0,0,1
+Amazon,"Applied Scientist I, Buyer Abuse Prevention",3.5,"San Diego, CA",CA,"$129,400 - $212,800 a year",171100.0,Unknown,0,0,1
+Snowflake,Head of AI Solutions,3.6,"Menlo Park, CA",CA,"$243,000 - $379,500 a year",311250.0,Unknown,0,0,1
+Amazon.com Services LLC,"Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS)",3.5,"New York, NY",NY,"$129,300 - $223,600 a year",176450.0,Full-time,0,0,1
+Amazon.com Services LLC,"Applied Scientist I, Buyer Abuse Prevention",3.5,"San Diego, CA",CA,"$129,400 - $212,800 a year",171100.0,Full-time,0,0,1
+Snowflake,"Software Engineer, Machine Learning â€“ Engineering Systems and AI Research",3.6,"Bellevue, WA",WA,"$157,000 - $230,000 a year",193500.0,Unknown,0,0,0
+Johnson & Johnson,"Principal Portfolio Lead, Statistical Programming - Oncology",4.2,"Spring House, PA",PA,"$115,000 - $197,800 a year",156400.0,Full-time,1,0,0
+TikTok,Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD),3.3,"San Jose, CA",CA,"$145,000 - $250,000 a year",197500.0,Unknown,0,0,1
+Pfizer,"Senior Manager, Data Science & Analytics",4.2,"Bothell, WA",WA,"$120,800 - $201,400 a year",161100.0,Full-time,1,0,0
+Cella,SENIOR WEBSITE DATA ANALYST,3.2,"Lake Forest, IL",IL,$48 - $50 an hour,99840.0,Contract,1,0,0
+AT&T,Principal Data Scientist,3.7,"Dallas, TX",TX,"$160,900 - $270,400 a year",215650.0,Full-time,0,0,0
+Convene,Senior Data Analyst,3.2,"New York, NY",NY,"$95,000 - $105,000 a year",100000.0,Unknown,1,0,1
+Amazon,"Deep Learning Architect, Generative AI Innovation Center",3.5,"Arlington, VA",VA,"$118,200 - $204,300 a year",161250.0,Unknown,0,0,0
+"Amazon Web Services, Inc.","Senior Applied Scientist, Agentic AI Professional Services Experience",3.4,"New York, NY",NY,"$150,400 - $260,000 a year",205200.0,Full-time,1,0,1
+Bristol-Myers Squibb,"Associate Director, Analytical AI Forecasting and Predictive Solutions",4.1,"Princeton, NJ",NJ,"$167,540 - $203,000 a year",185270.0,Unknown,0,0,0
+Amazon,"Senior Applied Scientist, Geographic Targeting",3.5,"New York, NY",NY,"$150,400 - $260,000 a year",205200.0,Unknown,1,0,1
+Arlo,Senior Data Analyst,3.3,"Milpitas, CA",CA,"$115,000 - $170,000 a year",142500.0,Full-time,1,0,1
+Publicis Groupe,"Vice President, Data Science",3.6,"New York, NY",NY,"$163,210 - $234,570 a year",198890.0,Unknown,0,0,1
+NTT DATA,IT - Clinical Informaticist - Product Development,3.5,"St. Louis, MO",MO,$61.24 - $64.00 an hour,127379.2,Unknown,0,0,0
+"Amazon Web Services, Inc.","Deep Learning Architect, Generative AI Innovation Center",3.4,"Arlington, VA",VA,"$118,200 - $204,300 a year",161250.0,Full-time,0,0,0
+Apple,"Machine Learning Engineer, Siri Conversation Intelligence",4.1,"Cupertino, CA",CA,"$175,800 - $312,200 a year",244000.0,Unknown,0,0,1
+Johnson & Johnson,"Manager, R&D Data Science and Digital Health (DSDH) Immunology",4.2,"Titusville, FL",FL,"$115,000 - $197,800 a year",156400.0,Full-time,1,0,0
+Wells Fargo,Artificial Intelligence Solutions Consultant - Conversational Architect,3.6,"New York, NY",NY,"$96,600 - $206,100 a year",151350.0,Full-time,0,0,1
+United Airlines,Lead Engineer Data Ops,3.9,"Chicago, IL",IL,"$114,665 - $156,310 a year",135487.5,Full-time,1,0,0
+Verizon,Principal AI Scientist (Deep Learning Focus),3.8,"Basking Ridge, NJ",NJ,"$120,500 - $231,000 a year",175750.0,Full-time,0,0,0
+Qualcomm,Senior Machine Learning Engineer,4.0,"San Diego, CA",CA,"$159,100 - $238,700 a year",198900.0,Unknown,1,0,1
+Apple,Machine Learning Algorithm Validation Engineer,4.1,"Cupertino, CA",CA,"$136,300 - $248,700 a year",192500.0,Unknown,0,0,1
+Honeywell,Advanced Machine Learning Ops Engineer (Advanced Materials),3.7,"Buffalo, NY",NY,"$132,000 - $198,000 a year",165000.0,Full-time,0,0,1
+"Intezra, Inc.",Data Scientist,0.0,"Columbia, MD",MD,"$210,000 - $260,000 a year",235000.0,Unknown,0,0,0
+"Amazon Web Services, Inc.","Senior Delivery Consultant- GenAI/ML, AWS, Industries",3.4,"Arlington, VA",VA,"$138,200 - $239,000 a year",188600.0,Full-time,1,0,0
+Visa,Data Scientist,3.9,"Foster City, CA",CA,"$129,400 - $182,750 a year",156075.0,Full-time,0,0,1
+Amazon,"Principal Applied Scientist, Advertising General Intelligence",3.5,"San Diego, CA",CA,"$179,000 - $309,400 a year",244200.0,Unknown,0,0,1
+Uber,"Senior Scientist, Shopping",3.4,"New York, NY",NY,"$183,000 - $203,000 a year",193000.0,Full-time,1,0,1
+Wells Fargo,Artificial Intelligence Solutions Consultant - Conversational Architect,3.6,"Charlotte, NC",NC,"$96,600 - $206,100 a year",151350.0,Full-time,0,0,0
+Google,"Staff Software Engineer, BigQuery, Generative AI",4.3,"New York, NY",NY,"$197,000 - $291,000 a year",244000.0,Full-time,0,0,1
+Google,"Data Center Mechanical Engineer - Sunnyvale, Austin or Kirkland",4.3,"Sunnyvale, CA",CA,"$144,000 - $211,000 a year",177500.0,Full-time,0,0,1
+California State University (CSU) Chancellor's Office,"Assistant Director, Student Success Dashboard Data Scientist",0.0,"Long Beach, CA",CA,"Up to $135,000 a year",135000.0,Unknown,0,0,1
+Google,"Data Center Mechanical Engineer - Sunnyvale, Austin or Kirkland",4.3,"Austin, TX",TX,"$144,000 - $211,000 a year",177500.0,Full-time,0,0,0
+Collaborating Techs LLC,Sr Data Analyst,0.0,"Dallas, TX",TX,$51 an hour,106080.0,Part-time,0,0,0
+Wells Fargo,"Senior Quantitative Analytics Specialist - R&D GenAI, Agentic AI and ML",3.6,"Irving, NY",NY,"$111,100 - $237,100 a year",174100.0,Full-time,1,0,1
+Peloton,"Data Scientist, Product Analytics",4.8,"Sunnyvale, CA",CA,"$140,400 - $166,100 a year",153250.0,Unknown,0,0,1
+Airwallex,"Senior Data Scientist, Analytics (Growth)",2.3,"San Francisco, CA",CA,"$150,000 - $230,000 a year",190000.0,Full-time,1,0,1
+Motion Recruitment,"Data Engineer, TS/SCI FSP",3.7,"Chantilly, VA",VA,"$135,000 - $170,000 a year",152500.0,Full-time,0,0,0
+Medtronic,Senior Statistician - NV,3.8,"Irvine, CA",CA,"$118,400 - $177,600 a year",148000.0,Full-time,1,0,1
+Amazon,"Principal Applied Scientist - Generative AI, Trust and Store Integrity Science",3.5,"Seattle, WA",WA,"$179,000 - $309,400 a year",244200.0,Unknown,0,0,0
+Uber,"Data Scientist II, Rider Experience",3.4,"New York, NY",NY,"$155,000 - $172,000 a year",163500.0,Full-time,0,0,1
+Handshake,"Human Data Manager, Handshake AI",3.7,"New York, NY",NY,"$110,000 - $140,000 a year",125000.0,Full-time,1,0,1
+Amazon.com Services LLC,"Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)",3.5,"New York, NY",NY,"$129,300 - $223,600 a year",176450.0,Full-time,0,0,1
+PayPal,Data Scientist 1,3.8,"Scottsdale, AZ",AZ,"$123,500 - $212,850 a year",168175.0,Full-time,0,0,0
+PM Control Systems Pte Ltd,Data Scientist,3.0,"Fort Collins, CO",CO,"$79,360 - $119,040 a year",99200.0,Full-time,0,0,0
+Chewy,Data Scientist II,2.8,"Bellevue, WA",WA,"$120,500 - $193,500 a year",157000.0,Unknown,0,0,0
+PayPal,Sr Data Scientist,3.8,"Chicago, IL",IL,"$123,500 - $212,850 a year",168175.0,Full-time,0,0,0
+"Amazon Web Services, Inc.","Data Scientist, Applied AI Solutions",3.4,"Seattle, WA",WA,"$125,500 - $212,800 a year",169150.0,Full-time,0,0,0
+Base-2 Solutions,Data Scientist,3.3,"Bethesda, MD",MD,"$140,792.99 - $187,723.99 a year",164258.49,Full-time,0,0,0
+AMH,"Senior Manager, Data Science",2.8,"Calabasas, CA",CA,"$124,486 - $161,860 a year",143173.0,Full-time,1,0,1
+Oura,Senior AI Data Specialist- Women's Health (Short-term 9 months),0.0,"San Francisco, CA",CA,"$139,000 - $203,000 a year",171000.0,Full-time,1,0,1
+Base-2 Solutions,Data Scientist,3.3,"Bethesda, MD",MD,"$174,778.09 - $233,037.46 a year",203907.775,Full-time,0,0,0
+Base-2 Solutions,Data Scientist - Skill Level 3,3.3,"Fort Meade, MD",MD,"$167,447.97 - $223,263.96 a year",195355.965,Full-time,0,0,0
+Alignment Healthcare,Data Scientist – Generative AI & Medicare Risk Adjustment Analytics,2.9,"Orange, CA",CA,"$149,882 - $224,823 a year",187352.5,Full-time,0,0,1
+"Staples, Inc.",Senior Data Scientist,3.4,"Lincolnshire, IL",IL,"$115,000 - $175,000 a year",145000.0,Unknown,1,0,0
+City of North Las Vegas,Data Analyst / Senior Data Analyst,3.7,"North Las Vegas, NV",NV,"$77,633.37 - $135,078.16 a year",106355.765,Unknown,1,0,0
+Amazon,"Data Scientist, NAS Mosaic",3.5,"Seattle, WA",WA,"$125,500 - $212,800 a year",169150.0,Unknown,0,0,0
+EVERSOURCE,Lead Data Scientist (Hybrid),3.5,"Westwood, MA",MA,"$157,040 - $174,490 a year",165765.0,Full-time,1,0,0
+Amex,Senior Analyst - Data Science,4.1,"New York, NY",NY,"$55,000 - $105,000 a year",80000.0,Unknown,1,0,1
+General Atomics and Affiliated Companies,"Data Scientist, Federal Team",3.6,"Charlottesville, VA",VA,"$98,100 - $171,398 a year",134749.0,Full-time,0,0,0
+Glean Technologies,"Senior Data Scientist, EGINew",0.0,"Palo Alto, CA",CA,"$175,000 - $210,000 a year",192500.0,Unknown,1,0,1
+Disney Entertainment and ESPN Product & Technology,Lead Machine Learning Engineer,0.0,"New York, NY",NY,"$175,800 - $235,700 a year",205750.0,Unknown,1,0,1
+Messenger,"Audio Software Engineer, Applied Scientist",4.0,"New York, NY",NY,$70.67 an hour,146993.6,Unknown,0,0,1
+The Hartford,Sr Data Scientist,3.6,"Charlotte, NC",NC,"$110,720 - $166,080 a year",138400.0,Full-time,0,0,0
+Amazon,"Software Dev Engineer II, Measurement, Ad Tech, and Data Science (MADS)",3.5,"New York, NY",NY,"$129,300 - $223,600 a year",176450.0,Unknown,0,0,1
+Google,"Data Scientist, Energy Analytics, Google Cloud",4.3,"Sunnyvale, CA",CA,"$166,000 - $244,000 a year",205000.0,Full-time,0,0,1
+Uber,Sr. Marketing Applied Scientist,3.4,"San Francisco, CA",CA,"$183,000 - $203,000 a year",193000.0,Full-time,0,0,1
+Meta,Data Scientist (Technical Leadership),4.0,"New York, NY",NY,"$206,000 - $281,000 a year",243500.0,Unknown,1,0,1
+Information Technology Senior Management Forum,Senior Data Scientist - NLP,0.0,"McLean, VA",VA,"$133,000 - $165,600 a year",149300.0,Full-time,1,0,0
+Citi,Data Analytics Lead Analyst - C13 - IRVING,3.9,"Irving, TX",TX,"$125,760 - $188,640 a year",157200.0,Full-time,1,0,0
+Uber,Sr. Marketing Applied Scientist,3.4,"New York, NY",NY,"$183,000 - $203,000 a year",193000.0,Full-time,0,0,1
+Publicis Groupe,Senior Data Scientist,3.6,"Boston, MA",MA,"$87,210 - $131,230 a year",109220.0,Unknown,1,0,0
+Citigroup,AI & Data Platform Program Lead - SVP,3.9,"New York, NY",NY,"$192,000 - $288,000 a year",240000.0,Full-time,1,0,1
+SMX,Senior Data Analyst (4408),3.8,"Dahlgren, VA",VA,"$105,100 - $175,100 a year",140100.0,Unknown,1,0,0
+Information Technology Senior Management Forum,Senior Machine Learning Engineer,0.0,"New York, NY",NY,"$158,600 - $197,400 a year",178000.0,Full-time,1,0,1
+Meta,"GenAI Project Manager, Product Data Operations",4.0,"New York, NY",NY,"$93,000 - $136,000 a year",114500.0,Unknown,1,0,1
+Parsons,Senior Data Scientist,3.9,"Annapolis Junction, MD",MD,"$120,800 - $217,400 a year",169100.0,Full-time,1,0,0
+MEDIDATA,Senior Commercial Data Analyst,3.6,"New York, NY",NY,"$114,750 - $153,000 a year",133875.0,Unknown,1,0,1
+Verily,"Senior Data Scientist, AI Agent",3.8,"Boston, MA",MA,"$140,000 - $200,000 a year",170000.0,Full-time,1,0,0
+Google,"Data Scientist, Energy Analytics, Google Cloud",4.3,"Seattle, WA",WA,"$166,000 - $244,000 a year",205000.0,Full-time,0,0,0
+WCG,Senior Statistical Programmer (Remote),3.0,"Cary, NC",NC,"$73,000 - $112,000 a year",92500.0,Full-time,1,0,0
+PayPal,Machine Learning Engineer,3.8,"Chicago, IL",IL,"$111,500 - $191,950 a year",151725.0,Full-time,0,0,0
+Charles Schwab,"Manager, AI & Data Science - Cognitive AI",3.9,"Austin, TX",TX,"$102,500 - $184,400 a year",143450.0,Unknown,1,0,0
+Amazon,"Applied Scientist II, Sponsored Products - Bidding",3.5,"New York, NY",NY,"$136,000 - $223,400 a year",179700.0,Unknown,0,0,1
+Handshake,"Strategic Projects Lead, Handshake AI",3.7,"New York, NY",NY,"$125,000 - $160,000 a year",142500.0,Full-time,1,0,1
+Handshake,"Growth Operations Lead, Handshake AI",3.7,"New York, NY",NY,"$125,000 - $200,000 a year",162500.0,Full-time,1,0,1
+State of Minnesota,Data Analyst - Research Analysis Specialist Senior,3.4,"Saint Paul, MN",MN,$31.92 - $47.05 an hour,66393.6,Full-time,1,0,0
+Amazon,"Applied Scientist, Artificial General Intelligence",3.5,"Sunnyvale, CA",CA,"$136,000 - $223,400 a year",179700.0,Unknown,0,0,1
+Meta,Software Engineer (Technical Leadership) - Machine Learning,4.0,"New York, NY",NY,"$213,000 - $293,000 a year",253000.0,Unknown,1,0,1
+Facebook App,"Data Engineering Manager, Analytics",4.0,"New York, NY",NY,"$173,000 - $242,000 a year",207500.0,Unknown,1,0,1
+Kimberly-Clark,"AI/ML Development Engineer, RD&E",4.1,"Roswell, GA",GA,"$105,740 - $130,620 a year",118180.0,Full-time,0,0,0
+Pfizer,"Director, AIDA R&D AI & Data Product Management",4.2,"Bothell, WA",WA,"$169,700 - $282,900 a year",226300.0,Full-time,0,0,0
+BOEING,Experienced Quality Systems Specialist (Statistical Analysis & Application),3.9,"Renton, WA",WA,"$86,700 - $117,300 a year",102000.0,Unknown,0,0,0
+"Amazon Web Services, Inc.","Senior Delivery Consultant - Senior Machine Learning Engineer, AWS Professional Services, AWS Professional Services",3.4,"Atlanta, GA",GA,"$138,200 - $239,000 a year",188600.0,Full-time,1,0,0
+Amazon,"Machine Learning Engineer II, Sponsored Products Search Sourcing, Amazon Advertising",3.5,"Seattle, WA",WA,"$129,300 - $223,600 a year",176450.0,Internship,0,0,0
+Google,"Software Engineer III, Generative AI, Google Workspace",4.3,"Sunnyvale, CA",CA,"$141,000 - $202,000 a year",171500.0,Full-time,0,0,1
+Amazon.com Services LLC,"Applied Scientist II, Sponsored Products - Bidding",3.5,"New York, NY",NY,"$136,000 - $223,400 a year",179700.0,Full-time,0,0,1
+Facebook App,AI Developer Efficiency Product Manager,4.0,"Menlo Park, CA",CA,"$202,000 - $277,000 a year",239500.0,Full-time,1,0,1
+"Amazon Web Services, Inc.","Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services",3.4,"Boston, MA",MA,"$118,200 - $204,300 a year",161250.0,Full-time,0,0,0
+Information Technology Senior Management Forum,AI & Data Platform Program Lead - SVP,0.0,"New York, NY",NY,"$192,000 - $288,000 a year",240000.0,Full-time,1,0,1
+Citigroup,Gen AI Lead Engineer - SVP,3.9,"New York, NY",NY,"$192,000 - $288,000 a year",240000.0,Full-time,1,0,1
+Citigroup,Workforce Optimization Data Science & Analytics Lead - Vice President,3.9,"Irving, TX",TX,"$138,720 - $208,080 a year",173400.0,Full-time,1,0,0
+Facebook App,"Data Engineering Manager, Analytics",4.0,"Menlo Park, CA",CA,"$173,000 - $242,000 a year",207500.0,Unknown,1,0,1
+Fannie Mae,Internal Audit - Data Science Senior Associate,4.0,"Reston, VA",VA,"$94,000 - $122,000 a year",108000.0,Full-time,1,0,0
+Meta,"Software Engineer, Machine Learning",4.0,"New York, NY",NY,$56.25 an hour,117000.0,Unknown,0,0,1
+Boston Scientific Corporation,Manager - AI Engineering,3.9,"Arden Hills, MN",MN,"$103,700 - $197,000 a year",150350.0,Unknown,1,0,0
+Infosys,Data Science Analyst - Python and Machine Learning,3.8,"Washington, NC",NC,"$56,000 - $85,400 a year",70700.0,Full-time,0,0,0
+Apple,Senior ML Data Program Manager,4.1,"Cupertino, CA",CA,"$165,500 - $248,700 a year",207100.0,Unknown,1,0,1
+FocusKPI Inc.,Android AI ML Engineer - On-Device,0.0,"Mountain View, CA",CA,$80 - $93 an hour,166400.0,Contract,0,0,1
+Apple,Machine Learning Compiler Architect,4.1,"Sunnyvale, CA",CA,"$207,800 - $378,700 a year",293250.0,Unknown,0,0,1
+Apple,"AI Solutions Architect, Data Solutions & Initiatives",4.1,"Cupertino, CA",CA,"$175,800 - $264,200 a year",220000.0,Unknown,0,0,1
+New York Life Insurance Co,"Senior Associate, Analytics & AI Analyst",3.6,"New York, NY",NY,"$95,000 - $162,500 a year",128750.0,Unknown,1,0,1
+Western Governors University,Data Scientist I - Curriculum Analytics,3.6,"Salt Lake City, UT",UT,"$95,900 - $143,800 a year",119850.0,Full-time,0,0,0
+A Place For Mom,Staff Machine Learning Engineer,4.3,"New York, NY",NY,"$150,000 - $170,000 a year",160000.0,Full-time,0,0,1
+Apple,"Senior Machine Learning Engineer, Siri Attention and Invocation",4.1,"Cupertino, CA",CA,"$143,100 - $264,200 a year",203650.0,Unknown,1,0,1
+Amazon.com Services LLC,"Member of Technical Staff - Applied Science - People Leader, AGI Autonomy",3.5,"San Francisco, CA",CA,"$120,000 - $350,000 a year",235000.0,Full-time,1,0,1
+Apple,Machine Learning Manager - Apple Ads,4.1,"Cupertino, CA",CA,"$252,400 - $378,700 a year",315550.0,Unknown,1,0,1
+Google,"Senior Software Engineer, AI/ML, Google Cloud Compute",4.3,"Sunnyvale, CA",CA,"$166,000 - $244,000 a year",205000.0,Full-time,1,0,1
+Apple,Senior AI Application Engineer,4.1,"San Diego, CA",CA,"$166,600 - $296,300 a year",231450.0,Unknown,1,0,1
+Amazon.com Services LLC,Principal PMT - Alexa,3.5,"Seattle, WA",WA,"$161,900 - $279,900 a year",220900.0,Full-time,0,0,0
+Apple,Machine Learning / Computer Vision Engineer - Generative AI,4.1,"Sunnyvale, CA",CA,"$143,100 - $264,200 a year",203650.0,Unknown,0,0,1
+Wells Fargo,Lead AI-driven IT Service Management (ITSM) Engineer,3.6,"Iselin, NJ",NJ,"$120,400 - $262,600 a year",191500.0,Full-time,1,0,0
+Apple,Audio ML Algorithm Engineer,4.1,"Cupertino, CA",CA,"$143,100 - $214,500 a year",178800.0,Unknown,0,0,1
+Uber,Staff Machine Learning Engineer - Causal Inference,3.4,"New York, NY",NY,"$223,000 - $248,000 a year",235500.0,Full-time,0,0,1
+Contextual AI,Member of Technical Staff (Platform),0.0,"Mountain View, CA",CA,"$140,000 - $300,000 a year",220000.0,Unknown,0,0,1
+Information Technology Senior Management Forum,Gen AI Lead Engineer - SVP,0.0,"New York, NY",NY,"$192,000 - $288,000 a year",240000.0,Full-time,1,0,1
+Amazon,"Senior Delivery Consultant - Senior Machine Learning Engineer, AWS Professional Services, AWS Professional Services",3.5,"Atlanta, GA",GA,"$138,200 - $239,000 a year",188600.0,Unknown,1,0,0
+Amazon,"Delivery Consultant - Machine Learning Engineer, AWS Professional Services, AWS Professional Services",3.5,"Boston, MA",MA,"$118,200 - $204,300 a year",161250.0,Unknown,0,0,0
+Meta,"Software Engineering Manager, Machine Learning",4.0,"New York, NY",NY,"$177,000 - $251,000 a year",214000.0,Unknown,1,0,1
+DataArt,Senior AI Consultant,4.3,"New York, NY",NY,"From $190,000 a year",190000.0,Unknown,1,0,1
+"CGI Group, Inc.",AI Solutions Architect,3.6,"Lafayette, LA",LA,"$79,300 - $173,500 a year",126400.0,Unknown,0,0,0
+PRO IT Inc.,AWS Gen AI Developer (8+ Years Exp),0.0,"Plano, TX",TX,"$130,000 - $175,000 a year",152500.0,Full-time,0,0,0
+Wells Fargo,Lead AI-driven IT Service Management (ITSM) Engineer,3.6,"Charlotte, NC",NC,"$120,400 - $262,600 a year",191500.0,Full-time,1,0,0
+Handshake,"Delivery Lead, Handshake AI",3.7,"New York, NY",NY,"$180,000 - $220,000 a year",200000.0,Full-time,1,0,1
+Publicis Groupe,Senior Data Analyst,3.6,"New York, NY",NY,"$87,000 - $109,000 a year",98000.0,Unknown,1,0,1
+EVERSANA,Senior Principal Statistician,2.7,"Chicago, IL",IL,"$177,000 - $200,000 a year",188500.0,Full-time,1,0,0
+Contextual AI,Machine Learning Engineer,0.0,"Mountain View, CA",CA,"$150,000 - $300,000 a year",225000.0,Unknown,0,0,1
+Meta,"Data Science Manager, Demand Planning and Forecasting",4.0,"New York, NY",NY,"$206,000 - $281,000 a year",243500.0,Unknown,1,0,1
+"Vizient, Inc.",Data Scientist,3.7,"Chicago, IL",IL,"$77,400 - $135,400 a year",106400.0,Unknown,0,0,0
+Motorola Solutions,Sr. Data Scientist,4.1,"Richardson, TX",TX,"$90,000 - $144,000 a year",117000.0,Full-time,0,0,0
+BMW,Lead Data Scientist,3.8,"Columbus, OH",OH,"$54,300 - $108,600 a year",81450.0,Full-time,1,0,0
+Booz Allen,"Data Scientist, Senior",3.9,"Ford Island, HI",HI,"$99,000 - $225,000 a year",162000.0,Full-time,1,0,0
+Workday,ML Engineering - ML Ops,3.9,"Boulder, CO",CO,"$139,800 - $220,800 a year",180300.0,Full-time,0,0,0
+ADM,DNA Data Scientist,3.4,"Erlanger, KY",KY,"$100,152 - $110,152 a year",105152.0,Unknown,0,0,0
+Cognizant,Sr. Data Analyst,3.8,"Roseville, MN",MN,"$68,000 - $113,937 a year",90968.5,Full-time,0,0,0
+Edison International,Data Science Senior Specialist,3.9,"Irwindale, CA",CA,"$126,000 - $189,000 a year",157500.0,Unknown,1,0,1
+Google,"Data Scientist, Product, Play Data Science and Analytics",4.3,"Mountain View, CA",CA,"$183,000 - $271,000 a year",227000.0,Full-time,0,0,1
+Qualcomm,Machine Learning Compiler Engineer,4.0,"San Diego, CA",CA,"$158,400 - $237,600 a year",198000.0,Unknown,0,0,1
+TransUnion,Senior Data Scientist,3.8,"New York, NY",NY,"$90,000 - $150,000 a year",120000.0,Full-time,1,0,1
+American Express Global Business Travel,Machine Learning Scientist III,3.6,"Bellevue, WA",WA,"$142,064 - $203,000 a year",172532.0,Full-time,0,0,0
+Google,Business and Marketing Data Scientist II,4.3,"New York, NY",NY,"$141,000 - $202,000 a year",171500.0,Full-time,0,0,1
+Robinhood,Senior Data Scientist- Product Fraud,3.5,"Menlo Park, CA",CA,"$139,000 - $210,000 a year",174500.0,Unknown,1,0,1
+ADP,Sr. Data Analyst (SQL/Tableau/Databricks),3.8,"Tempe, AZ",AZ,"$61,800 - $165,330 a year",113565.0,Full-time,0,0,0
+Information Technology Senior Management Forum,"Principal Associate, Data Science - Model Risk Office",0.0,"McLean, VA",VA,"$158,600 - $181,000 a year",169800.0,Full-time,0,0,0
+Information Technology Senior Management Forum,Principal Data Scientist,0.0,"McLean, VA",VA,"$158,600 - $181,000 a year",169800.0,Full-time,0,0,0
+Apple,Software Engineer - ML Data,4.1,"New York, NY",NY,"$175,800 - $264,200 a year",220000.0,Unknown,0,0,1
+AT&T,Senior Data & AI Engineer,3.7,"Dallas, TX",TX,"$116,700 - $196,100 a year",156400.0,Full-time,1,0,0
+Lyft,"Senior Data Scientist, Algorithms - Primetime Pricing",3.6,"New York, NY",NY,"$148,000 - $185,000 a year",166500.0,Unknown,1,0,1
+Amazon.com Services LLC,"Applied Scientist - II, Everyday Essentials Science",3.5,"Seattle, WA",WA,"$136,000 - $223,400 a year",179700.0,Full-time,0,0,0
+Amazon,"Manager, Data Science, P2 Science, Data, and Insights",3.5,"Seattle, WA",WA,"$142,300 - $272,400 a year",207350.0,Unknown,1,0,0
+RevolutionParts,"Senior Data Analyst, Business Intelligence",2.8,"Tempe, AZ",AZ,"$80,000 - $110,000 a year",95000.0,Full-time,1,0,0
+TikTok,"Backend Software Engineer, AI Safety, TikTok - Seattle",3.3,"Seattle, WA",WA,"$137,750 - $237,500 a year",187625.0,Unknown,0,0,0
+G2i Inc.,Software Engineer for Training AI Data,1.0,"Charlotte, NC",NC,$30 - $50 an hour,62400.0,Contract,0,0,0
+Information Technology Senior Management Forum,"Manager, Data Science - LLM Customization Team",0.0,"New York, NY",NY,"$211,000 - $240,800 a year",225900.0,Full-time,1,0,1
+Motive,Senior Applied Scientist,3.9,"San Francisco, CA",CA,"$124,000 - $184,000 a year",154000.0,Unknown,1,0,1
+Luminate,Lead AI Scientist,1.0,"New York, NY",NY,"$165,000 - $255,000 a year",210000.0,Unknown,1,0,1
+Apple,Machine Learning Engineer,4.1,"Cupertino, CA",CA,"$175,800 - $264,200 a year",220000.0,Unknown,0,0,1
+RVO Health,"Senior AI Engineer, Quit for Life",3.0,"Minneapolis, MN",MN,"$118,650 - $158,200 a year",138425.0,Full-time,1,0,0
+RVO Health,"Senior AI Engineer, Quit for Life",3.0,"Charlotte, NC",NC,"$118,650 - $158,200 a year",138425.0,Full-time,1,0,0
+Information Technology Senior Management Forum,"Senior Manager, Data Science - LLM Customization Team",0.0,"New York, NY",NY,"$245,900 - $280,600 a year",263250.0,Full-time,1,0,1
+Apple,"Applied Machine Learning Research Engineer, Siri",4.1,"Cupertino, CA",CA,"$175,800 - $312,200 a year",244000.0,Unknown,0,0,1
+"Amazon Web Services, Inc.","Principal Partner GTM - Agentic AI, Data & AI - Partner GTM and Specialist Team",3.4,"Seattle, WA",WA,"$158,400 - $262,000 a year",210200.0,Full-time,0,0,0
+Apple,Senior Software Engineer - AI Systems,4.1,"Sunnyvale, CA",CA,"$207,800 - $378,700 a year",293250.0,Unknown,1,0,1
+"Amazon Web Services, Inc.","Sr. GenAI GTM - Partner, Data & AI - Partner GTM and Specialist Team",3.4,"Seattle, WA",WA,"$133,200 - $220,200 a year",176700.0,Full-time,0,0,0
+Atlassian,"PRINCIPAL DATA SCIENTISTS, CUSTOMER ANALYTICS – ECOSYSTEM",3.9,"San Francisco, CA",CA,"$188,885 - $233,400 a year",211142.5,Unknown,0,0,1
+Amazon,"Applied Science Manager, Translation Services",3.5,"Seattle, WA",WA,"$165,500 - $286,000 a year",225750.0,Unknown,1,0,0
+Amazon,"Principal Partner GTM - Agentic AI, Data & AI - Partner GTM and Specialist Team",3.5,"Seattle, WA",WA,"$158,400 - $262,000 a year",210200.0,Unknown,0,0,0
+Costello Medical,Statistician,3.3,"Boston, MA",MA,"$73,000 - $76,000 a year",74500.0,Full-time,0,0,0
+Amazon,"Sr GenAI GTM Specialist - Partner - Startups, Data & AI Partner GTM Team",3.5,"Seattle, WA",WA,"$133,200 - $220,200 a year",176700.0,Unknown,0,0,0
+Amazon,"Sr. GenAI GTM - Partner, Data & AI - Partner GTM and Specialist Team",3.5,"Seattle, WA",WA,"$133,200 - $220,200 a year",176700.0,Unknown,0,0,0
+Amazon,"Senior Software Development Engineer - AI Innovation & Vibe Coding, Amazon Music",3.5,"San Francisco, CA",CA,"$151,300 - $261,500 a year",206400.0,Unknown,1,0,1
+Amazon.com Services LLC,"Applied Science Manager, Customer Behavior Analytics",3.5,"Seattle, WA",WA,"$165,500 - $286,000 a year",225750.0,Full-time,1,0,0
+Amazon,"Applied Science Manager, Customer Behavior Analytics",3.5,"Seattle, WA",WA,"$165,500 - $286,000 a year",225750.0,Unknown,1,0,0
+Whatnot,Data & Marketplace Integrity,4.0,"New York, NY",NY,"$185,000 - $205,000 a year",195000.0,Unknown,0,0,1
+OpenAI,"Engineering Manager, Mulitimodal (API)",4.5,"San Francisco, CA",CA,"$325,000 - $405,000 a year",365000.0,Full-time,1,0,1
+Apple,"Software Engineer (Data), Ai & Data Platforms",4.1,"Sunnyvale, CA",CA,"$143,100 - $214,500 a year",178800.0,Unknown,0,0,1
+Pylon,Software Engineer (AI Agents),3.3,"San Francisco, CA",CA,"$180,000 - $210,000 a year",195000.0,Full-time,0,0,1
+Booz Allen,AI and ML Engineer,3.9,"Offutt AFB, NE",NE,"$99,000 - $225,000 a year",162000.0,Full-time,0,0,0
+Costello Medical,Senior Statistician,3.3,"Boston, MA",MA,"$95,000 - $102,000 a year",98500.0,Full-time,1,0,0
+PRICE WATERHOUSE COOPERS,Managed Services - Applied AI Operations - Senior Associate,3.9,"New York, NY",NY,"$77,000 - $202,000 a year",139500.0,Unknown,1,0,1
+paypal,"Senior Director of Product, Consumer AI PayPal",3.8,"San Jose, CA",CA,"$209,000 - $359,150 a year",284075.0,Full-time,1,0,1
+January,Senior AI Engineer,4.2,"Menlo Park, CA",CA,"$150,000 - $250,000 a year",200000.0,Full-time,1,0,1
+Loon,"2025 PhD / Masters Residency - ML, AI for Mental Health",5.0,"Mountain View, CA",CA,"$109,000 - $150,000 a year",129500.0,Internship,0,0,1
+Uber,Senior Machine Learning Engineer - Membership,3.4,"San Francisco, CA",CA,"$198,000 - $220,000 a year",209000.0,Full-time,1,0,1
+Amazon.com Services LLC,"Senior Software Development Engineer - AI Innovation & Vibe Coding, Amazon Music",3.5,"San Francisco, CA",CA,"$151,300 - $261,500 a year",206400.0,Full-time,1,0,1
+BOEING,Senior Systems and Data Analyst,3.9,"Everett, WA",WA,"$118,150 - $159,850 a year",139000.0,Unknown,1,0,0
+"Amazon Web Services, Inc.","Sr GenAI GTM Specialist - Partner - Startups, Data & AI Partner GTM Team",3.4,"Seattle, WA",WA,"$133,200 - $220,200 a year",176700.0,Full-time,0,0,0
+Revalize,AI Enablement Lead,1.2,"Arlington, VA",VA,"$125,000 - $135,000 a year",130000.0,Full-time,1,0,0
+Amazon.com LLC,"Data Scientist, Devices Economic Value",3.5,"Seattle, WA",WA,"$125,500 - $212,800 a year",169150.0,Full-time,0,0,0
+Google,"Senior Software Engineer, Machine Learning, Privacy Sandbox",4.3,"New York, NY",NY,"$166,000 - $244,000 a year",205000.0,Full-time,1,0,1
+Amazon.com Services LLC,"System Engineer, AI Research, Prime Video - Content Understanding",3.5,"Seattle, WA",WA,"$116,300 - $201,200 a year",158750.0,Full-time,0,0,0
+Amazon.com Services LLC,"System Development Engineer, AI Annotation, Prime Video - Content Understanding",3.5,"Seattle, WA",WA,"$116,300 - $201,200 a year",158750.0,Full-time,0,0,0
+Apple,Machine Learning Engineer,4.1,"Cupertino, CA",CA,"$143,100 - $264,200 a year",203650.0,Unknown,0,0,1
+Palo Alto Networks,Principal Threat Researcher (Data Platform),3.8,"Santa Clara, CA",CA,"$215,000 a year",215000.0,Full-time,0,0,1
+DataAnnotation,Machine Learning Engineer - AI Trainer,3.8,"Lenexa, KS",KS,From $40 an hour,83200.0,Contract,0,0,0
+MGR Workforce,RFP & Proposal Specialist (AI-Enabled),2.8,"Dallas, TX",TX,$28 an hour,58240.0,Unknown,0,0,0
+DataAnnotation,Machine Learning Engineer - AI Trainer,3.8,"Woodbridge, VA",VA,From $40 an hour,83200.0,Contract,0,0,0
+DataAnnotation,FinTech Product Analyst - AI Trainer,3.8,"Santa Clara, CA",CA,From $40 an hour,83200.0,Contract,0,0,1
+DataAnnotation,FinTech Product Analyst - AI Trainer,3.8,"Cupertino, CA",CA,From $40 an hour,83200.0,Contract,0,0,1
+Volkswagen Group of America - Chattanooga Operations,AI Engineer (Unable to consider OPT/CPT candidates),0.0,"Belmont, CA",CA,"$140,000 - $170,000 a year",155000.0,Unknown,0,0,1
